@@ -1,3 +1,9 @@
 # .gitignore
 node_modules
 dist
+package-lock.json
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/New folder.iml
+/.idea/vcs.xml
